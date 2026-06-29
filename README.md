@@ -72,12 +72,7 @@ How to Run
 
 1. Install Required Libraries
 
-pip install bandit pytest
-
-2. Clone the Repository
-
-git clone https://github.com/yourusername/devsecops-pipeline.git
-
+pip install bandit python
 3. Navigate to the Project Folder
 
 cd devsecops-pipeline
